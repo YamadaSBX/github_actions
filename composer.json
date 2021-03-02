@@ -1,5 +1,6 @@
 {
     "name": "tabtt/test",
+    "description": "abc",
     "require": {
         "phpunit/phpunit": "3.7.*"
     },
