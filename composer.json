@@ -1,11 +1,5 @@
 {
     "name": "tabtt/test",
-    "authors": [
-        {
-            "name": "user-name",
-            "email": "email"
-        }
-    ],
     "require": {
         "phpunit/phpunit": "3.7.*"
     },
