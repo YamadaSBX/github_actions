@@ -3,7 +3,7 @@
     "description": "abc",
     "require": {},
     "require-dev": {
-        "phpunit/phpunit": "^8.5",
+        "phpunit/phpunit": "^8.5"
     },
     "autoload": {
         "psr-4": {
